@@ -1,0 +1,24 @@
+{
+  "name": "Spores",
+  "version": "0.0.2",
+  "description": "Simple to use,Simple to build.",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guotingchaopr/Spores.git"
+  },
+  "keywords": [
+    "Spore",
+    "Libs",
+    "Framework"
+  ],
+  "author": "guotingchao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guotingchaopr/Spores/issues"
+  },
+  "homepage": "https://github.com/guotingchaopr/Spores#readme"
+}
